@@ -5,16 +5,6 @@
     <link>https://whzzz467.github.io/tags/</link>
     <description>Recent content in Tags on wuhz的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Dec 2019 21:00:00 +0800</lastBuildDate><atom:link href="https://whzzz467.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>golang</title>
-      <link>https://whzzz467.github.io/tags/golang/</link>
-      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
-      
-      <guid>https://whzzz467.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-CN</language><atom:link href="https://whzzz467.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
