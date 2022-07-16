@@ -5,7 +5,8 @@
     <link>https://whzzz467.github.io/</link>
     <description>Recent content on wuhz的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://whzzz467.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 13 Dec 2019 21:00:00 +0800</lastBuildDate><atom:link href="https://whzzz467.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站</title>
       <link>https://whzzz467.github.io/about/</link>
@@ -13,6 +14,15 @@
       
       <guid>https://whzzz467.github.io/about/</guid>
       <description>本站用于分享笔者的学习历程</description>
+    </item>
+    
+    <item>
+      <title>Golang Gin 实战（三）| 路由参数</title>
+      <link>https://whzzz467.github.io/post/test/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>https://whzzz467.github.io/post/test/</guid>
+      <description></description>
     </item>
     
     <item>
